@@ -1,2 +1,2 @@
 # stavrianna.github.io
-Small HTML &amp; CSS projects.
+Simple login page.
